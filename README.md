@@ -1,10 +1,11 @@
-# 🔥Welcome to My Zone🔥
+# 🔥 Welcome to My Zone 🔥
 
-## Hello, I'm Chris Han 👋
+## 👋 Hello, I'm Chris Han 👋
 
-I'm a passionate and highly motivated front-end developer. <br/>
-I like to create fully responsive web appliciation using **_HTML, CSS, JAVASCRIPT, REACT, NODE, NOSQL_**. <br/>
-I was honorably discharged from **_KATUSA_**, which means Korean Augmentation to the US Army, as a Korean Army sergeant.
+- I'm a passionate and highly motivated front-end developer. <br/>
+- I like to create fully responsive web appliciation using **_HTML, CSS, JAVASCRIPT, REACT, NODE, NOSQL_**. <br/>
+- I was honorably discharged from **_KATUSA_**, which means Korean Augmentation to the US Army, as a Korean Army sergeant. <br/>
+- You can add me on [LinkedIn](https://www.linkedin.com/in/chris-kh-han/)
 
 
 <!---
