@@ -5,7 +5,9 @@
 - I'm a passionate and highly motivated front-end developer. <br/>
 - I like to create fully responsive web appliciation using **_HTML, CSS, JAVASCRIPT, REACT, NODE, NOSQL_**. <br/>
 - I was honorably discharged from **_KATUSA_**, which means Korean Augmentation to the US Army, as a Korean Army sergeant. <br/>
-- You can add me on [LinkedIn](https://www.linkedin.com/in/chris-kh-han/)
+- You can add me on [LinkedIn](https://www.linkedin.com/in/chris-kh-han/) <br/>
+
+> No Pain No Gain 💪
 
 
 <!---
